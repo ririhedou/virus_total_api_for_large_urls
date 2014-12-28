@@ -1,0 +1,188 @@
+http://www.google.com
+CLEAN MX : clean site
+Rising : clean site
+MalwarePatrol : clean site
+ZDB Zeus : clean site
+Netcraft : unrated site
+PhishLabs : unrated site
+K7AntiVirus : clean site
+SecureBrain : clean site
+Quttera : suspicious site
+AegisLab WebGuard : clean site
+MalwareDomainList : clean site
+ZeusTracker : clean site
+zvelo : clean site
+Google Safebrowsing : clean site
+Kaspersky : clean site
+BitDefender : clean site
+Wepawet : clean site
+VX Vault : clean site
+ADMINUSLabs : clean site
+C-SIRT : clean site
+CyberCrime : clean site
+Websense ThreatSeeker : clean site
+AutoShun : unrated site
+Webutation : clean site
+Trustwave : clean site
+Web Security Guard : clean site
+G-Data : clean site
+Malwarebytes hpHosts : clean site
+Dr.Web : clean site
+AlienVault : clean site
+Emsisoft : clean site
+Malc0de Database : clean site
+SpyEyeTracker : clean site
+malwares.com URL checker : clean site
+Phishtank : clean site
+Malwared : clean site
+Avira : clean site
+OpenPhish : clean site
+Antiy-AVL : clean site
+SCUMWARE.org : clean site
+FraudSense : clean site
+Opera : clean site
+Comodo Site Inspector : clean site
+Malekal : clean site
+ESET : clean site
+Sophos : unrated site
+Yandex Safebrowsing : clean site
+Spam404 : clean site
+Malware Domain Blocklist : clean site
+Blueliv : clean site
+ZCloudsec : clean site
+PalevoTracker : clean site
+CRDF : clean site
+ThreatHive : clean site
+ParetoLogic : clean site
+Tencent : clean site
+URLQuery : unrated site
+StopBadware : unrated site
+Sucuri SiteCheck : clean site
+Fortinet : clean site
+Baidu-International : clean site
+
+http://stackoverflow.com
+CLEAN MX : clean site
+Rising : clean site
+MalwarePatrol : clean site
+ZDB Zeus : clean site
+Netcraft : unrated site
+PhishLabs : unrated site
+K7AntiVirus : clean site
+SecureBrain : clean site
+Quttera : clean site
+AegisLab WebGuard : clean site
+MalwareDomainList : clean site
+ZeusTracker : clean site
+zvelo : clean site
+Google Safebrowsing : clean site
+Kaspersky : clean site
+BitDefender : clean site
+Wepawet : clean site
+VX Vault : clean site
+ADMINUSLabs : clean site
+C-SIRT : clean site
+CyberCrime : clean site
+Websense ThreatSeeker : clean site
+AutoShun : unrated site
+Webutation : clean site
+Trustwave : clean site
+Web Security Guard : clean site
+G-Data : clean site
+Malwarebytes hpHosts : clean site
+Dr.Web : clean site
+AlienVault : clean site
+Emsisoft : clean site
+Malc0de Database : clean site
+SpyEyeTracker : clean site
+malwares.com URL checker : clean site
+Phishtank : clean site
+Malwared : clean site
+Avira : clean site
+OpenPhish : clean site
+Antiy-AVL : clean site
+SCUMWARE.org : clean site
+FraudSense : clean site
+Opera : clean site
+Comodo Site Inspector : clean site
+Malekal : clean site
+ESET : clean site
+Sophos : unrated site
+Yandex Safebrowsing : clean site
+Spam404 : clean site
+Malware Domain Blocklist : clean site
+Blueliv : clean site
+ZCloudsec : clean site
+PalevoTracker : clean site
+CRDF : clean site
+ThreatHive : clean site
+ParetoLogic : clean site
+Tencent : clean site
+URLQuery : unrated site
+StopBadware : unrated site
+Sucuri SiteCheck : clean site
+Fortinet : clean site
+Baidu-International : clean site
+
+https://github.com
+CLEAN MX : clean site
+Rising : clean site
+MalwarePatrol : clean site
+ZDB Zeus : clean site
+Netcraft : unrated site
+PhishLabs : unrated site
+K7AntiVirus : clean site
+SecureBrain : clean site
+Quttera : clean site
+AegisLab WebGuard : clean site
+MalwareDomainList : clean site
+ZeusTracker : clean site
+zvelo : clean site
+Google Safebrowsing : clean site
+Kaspersky : clean site
+BitDefender : clean site
+Wepawet : clean site
+VX Vault : clean site
+ADMINUSLabs : clean site
+C-SIRT : clean site
+CyberCrime : clean site
+Websense ThreatSeeker : clean site
+AutoShun : unrated site
+Webutation : clean site
+Trustwave : clean site
+Web Security Guard : clean site
+G-Data : clean site
+Malwarebytes hpHosts : clean site
+Dr.Web : clean site
+AlienVault : clean site
+Emsisoft : clean site
+Malc0de Database : clean site
+SpyEyeTracker : clean site
+malwares.com URL checker : clean site
+Phishtank : clean site
+Malwared : clean site
+Avira : clean site
+OpenPhish : clean site
+Antiy-AVL : clean site
+SCUMWARE.org : clean site
+FraudSense : clean site
+Opera : clean site
+Comodo Site Inspector : clean site
+Malekal : clean site
+ESET : clean site
+Sophos : unrated site
+Yandex Safebrowsing : clean site
+Spam404 : clean site
+Malware Domain Blocklist : clean site
+Blueliv : clean site
+ZCloudsec : clean site
+PalevoTracker : clean site
+CRDF : clean site
+ThreatHive : clean site
+ParetoLogic : clean site
+Tencent : clean site
+URLQuery : unrated site
+StopBadware : unrated site
+Sucuri SiteCheck : clean site
+Fortinet : clean site
+Baidu-International : clean site
